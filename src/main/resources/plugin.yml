@@ -1,0 +1,7 @@
+name: ZxJQMsg
+version: '${project.version}'
+main: cn.zry551.zxjemsg.ZxJEMsg
+api-version: 1.18
+authors: [ ZRY551 ]
+description: Send a msg when player join or quit.
+website: http://mcmod.zry551.cn/
